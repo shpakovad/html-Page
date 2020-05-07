@@ -12,11 +12,11 @@ function Slider() {
             <img src={slider_right} className={style.slider_right} alt=""/>
             <img src={slider_left} className={style.slider_left} alt=""/>
             <section className={style.photos}>
-                <a href="/"> <img className={style.photo_1} src={photo_1} alt=""/></a>
-                <div className={style.layer}><span> Конференция группы компаний Nexans Russia </span></div>
-                <a href="/"> <img className={style.photo_2} src={photo_2} alt=""/></a>
-                <a href="/"> <img className={style.photo_4} src={photo_4} alt=""/></a>
-                <a href="/"> <img className={style.photo_3} src={photo_3} alt=""/></a>
+                <a href="#"> <img className={style.photo_1} src={photo_1} alt=""/></a>
+                <div className={style.layer}><span> Конференция группы компаний Nexans Russia</span></div>
+                <a href="#"> <img className={style.photo_2} src={photo_2} alt=""/></a>
+                <a href="#"> <img className={style.photo_4} src={photo_4} alt=""/></a>
+                <a href="#"> <img className={style.photo_3} src={photo_3} alt=""/></a>
             </section>
         </>
     );

@@ -17,7 +17,7 @@ function Header() {
                 <a href='#contacts'>Контакты</a>
             </nav>
             <div className={style.wrapperPhone}>
-                <img src={phone} alt="phone"/>
+                <img src={phone} alt=""/>
             </div>
         </header>
     );

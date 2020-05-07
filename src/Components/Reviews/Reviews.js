@@ -26,11 +26,11 @@ function Reviews() {
                         Великолепная атмосфера, великолепные люди. Это лучшая площадка для встречи людей, которые с
                         энтузиазмом делают бизнес.....
                     </div>
-                    <a href="/"> <img src={photo_1} className={style.photo_1} alt="photo_1"/> </a>
-                    <a href="/"> <img src={photo_2} className={style.photo_2} alt="photo_2"/></a>
-                    <a href="/"> <img src={photo_3} className={style.photo_3} alt="photo_3"/></a>
-                    <a href="/"> <img src={photo_4} className={style.photo_4} alt="photo_4"/></a>
-                    <a href="/"> <img src={right_vector} className={style.right_vector} alt="right_vector"/></a>
+                    <a href="#"> <img src={photo_1} className={style.photo_1} alt="photo_1"/> </a>
+                    <a href="#"> <img src={photo_2} className={style.photo_2} alt="photo_2"/></a>
+                    <a href="#"> <img src={photo_3} className={style.photo_3} alt="photo_3"/></a>
+                    <a href="#"> <img src={photo_4} className={style.photo_4} alt="photo_4"/></a>
+                    <a href="#"> <img src={right_vector} className={style.right_vector} alt="right_vector"/></a>
                     <div className={style.name}>Алексей Гаврилов</div>
                     <div className={style.relocation}>Nexans Russia</div>
                 </div>

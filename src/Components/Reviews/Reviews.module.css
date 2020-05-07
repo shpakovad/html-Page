@@ -86,7 +86,7 @@
 
 .photo_2:hover, .photo_3:hover, .photo_4:hover, .photo_1:hover {
     opacity: 0.4;
-    transition: opacity 0.6s;
+    transition: 0.5s;
 }
 
 .photo_2 {
