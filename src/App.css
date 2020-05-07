@@ -1,0 +1,10 @@
+.App {
+    scroll-behavior: smooth;
+}
+
+.wrapper {
+    position: relative;
+    width: 1920px;
+    height: 4160px;
+    margin: 0 auto;
+}
