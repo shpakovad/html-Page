@@ -9,8 +9,8 @@ import photo_4 from "../../assets/images/Cases/Photos/photo_4.png";
 
 function Slider() {
     return (<>
-            <img src={slider_right} className={style.slider_right} alt=""/>
-            <img src={slider_left} className={style.slider_left} alt=""/>
+            <a href="#"> <img src={slider_right} className={style.slider_right} alt=""/> </a>
+            <a href="#"> <img src={slider_left} className={style.slider_left} alt=""/> </a>
             <section className={style.photos}>
                 <a href="#"> <img className={style.photo_1} src={photo_1} alt=""/></a>
                 <div className={style.layer}><span> Конференция группы компаний Nexans Russia</span></div>

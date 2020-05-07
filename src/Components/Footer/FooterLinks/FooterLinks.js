@@ -7,9 +7,9 @@ import pay_pal from "../../assets/images/Footer/pay_pal.svg";
 function FooterLinks() {
     return (<>
             <div>
-                <div className={style.job}><a href="/">Работа у нас</a></div>
-                <div className={style.familiarity}><a href="/">День открытых дверей </a></div>
-                <div className={style.charity}><a href="/">Благотворительнось</a></div>
+                <div className={style.job}><a href="#">Работа у нас</a></div>
+                <div className={style.familiarity}><a href="#">День открытых дверей </a></div>
+                <div className={style.charity}><a href="#">Благотворительнось</a></div>
             </div>
             <div>
                 <img src={master_card} className={style.master_card} alt="master_card"/>

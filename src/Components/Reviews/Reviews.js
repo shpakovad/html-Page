@@ -19,7 +19,7 @@ function Reviews() {
                 </div>
                 <div className={style.lineReview}/>
                 <div className={style.wrapperReview}>
-                    <img src={left_vector} className={style.left_vector} alt="left_vector"/>
+                    <a href="#"> <img src={left_vector} className={style.left_vector} alt="left_vector"/> </a>
                     <div className={style.textReview}>Благодаря слаженной и конструктивной работе сотрудников
                         EventBizPro во время проведения мероприятия был создан прецедент абсолютно нового подхода к
                         проведению узконаправленных международных конференций.
