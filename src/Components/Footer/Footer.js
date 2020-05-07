@@ -9,8 +9,8 @@ function Footer() {
                 className={style.pro}>Pro</span>
                 <span className={style.seminars}>Организация семинаров</span>
             </div>
-            <div className={style.secondSection}><a href="/">Политика конфиденциальности</a></div>
-            <div className={style.thirdSection}><a href="/">Соглашение на обработку персональных данных</a></div>
+            <div className={style.secondSection}><a href="#">Политика конфиденциальности</a></div>
+            <div className={style.thirdSection}><a href="#">Соглашение на обработку персональных данных</a></div>
             <div>
                 <div className={style.benefits}><a href='#benefits'>Преимущества</a></div>
                 <div className={style.reviews}><a href='#reviews'>Отзывы</a></div>
